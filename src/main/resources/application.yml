@@ -1,0 +1,6 @@
+spring:
+  main:
+    web-application-type: NONE
+  netty:
+    proxy:
+      port: 9998
